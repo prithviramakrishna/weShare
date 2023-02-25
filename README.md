@@ -5,4 +5,3 @@ organized manner for the students. The students can access the study
 materials in an easy way.
 
 
-Link:  https://we-share-1.herokuapp.com/
